@@ -48,6 +48,10 @@
         <span>NextJS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
       </td>
+      <td width="25%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
     </tr> 
   </tbody>
 </table>
