@@ -10,7 +10,7 @@
 
 <h1 align="center">𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸</h1>
 
-## Web Development
+## 🌐 Web Development
 
 <div id="wdBadges" align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
@@ -22,22 +22,28 @@
 </div>
 
 
-## Databases
+## 💾 Databases
 
 <div id="dbBadges" align="center">
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre Badge"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 
 </div>
 
-## Hosting/SaaS
+## ☁️ Hosting/SaaS
 
 <div id="hsBadges" align="center">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify Badge"/>
 </div>
+
+## 💻 Others
+
+<div id="hsBadges" align="center">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+<div>
 
 <br/>
 
