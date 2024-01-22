@@ -2,59 +2,38 @@
 
 <p> My name is Ezequiel and i'm a web developer, from <b>La Plata, Argentina</b>. </p>
 
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
+</div>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>NextJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>MongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-    </tr> 
-  </tbody>
-</table>
+<br/>
+
+# 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+
+## Web Development
+
+<div id="wdBadges" align="center">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="NextJs Badge"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="React Badge"/>
+</div>
+
+
+## Databases
+
+<div id="dbBadges" align="center">
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+## Hosting/SaaS
+
+<div id="hsBadges" align="center">
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge"/>
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify Badge"/>
+</div>
 
 <!--
 **CasaresEzequiel/CasaresEzequiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
